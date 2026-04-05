@@ -1,0 +1,106 @@
+[
+    {
+        "name_ko": "성수",
+        "name_en": "Seongsu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 211,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 성동구 성수동2가"
+            }
+        ]
+    },
+    {
+        "name_ko": "용답",
+        "name_en": "Yongdap",
+        "PrevName_ko": "기지",
+        "PrevName_en": "Car Depot",
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "211-1",
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 성동구 성수동2가"
+            }
+        ]
+    },
+    {
+        "name_ko": "신답",
+        "name_en": "Sindap",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "211-2",
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 성동구 성수동2가"
+            }
+        ]
+    },
+    {
+        "name_ko": "신설동",
+        "name_en": "Sinseol-Dong",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 127,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 정동",
+                    "서울특별시 중구 태평로1가동",
+                    "서울특별시 중구 태평로2가동"
+                ]
+            },
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "211-3",
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 서소문동",
+                    "서울특별시 중구 태평로2가동"
+                ]
+            }
+        ]
+    }
+]

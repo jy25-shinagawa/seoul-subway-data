@@ -1,0 +1,1250 @@
+[
+    {
+        "name_ko": "시청",
+        "name_en": "City Hall",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 132,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 정동",
+                    "서울특별시 중구 태평로1가동",
+                    "서울특별시 중구 태평로2가동"
+                ]
+            },
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 201,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 서소문동",
+                    "서울특별시 중구 태평로2가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "을지로입구",
+        "name_en": "Euljiro il(1)-ga",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 202,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로1가동",
+                    "서울특별시 중구 을지로2가동",
+                    "서울특별시 중구 남대문로2가동",
+                    "서울특별시 중구 남대문로1가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "을지로3가",
+        "name_en": "Euljiro sam(3)-ga",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 203,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로3가동",
+                    "서울특별시 중구 을지로2가동"
+                ]
+            },
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 330,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로3가동",
+                    "서울특별시 중구 초동",
+                    "서울특별시 중구 입정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "을지로4가",
+        "name_en": "Euljiro sa(4)-ga",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 204,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 중구 을지로4가동"
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 535,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 주교동",
+                    "서울특별시 중구 을지로4가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "동대문운동장",
+        "name_en": "Dongdaemun Stadium",
+        "PrevName_ko": "서울운동장",
+        "PrevName_en": "Seoul Stadium",
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 205,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로7가동",
+                    "서울특별시 중구 을지로6가동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 422,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 광희동2가",
+                    "서울특별시 중구 광희동1가"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 536,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 광희동1가",
+                    "서울특별시 중구 광희동2가",
+                    "서울특별시 중구 쌍림동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "신당",
+        "name_en": "Sindang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 206,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 황학동",
+                    "서울특별시 중구 신당동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 635,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 훙인동",
+                    "서울특별시 중구 무학동",
+                    "서울특별시 중구 신당동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "상왕십리",
+        "name_en": "Sangwangsimni",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 207,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 성동구 하왕십리동",
+                    "서울특별시 성동구 홍익동",
+                    "서울특별시 성동구 도선동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "왕십리",
+        "name_en": "Wangsimni",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 208,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 성동구 행당동",
+                    "서울특별시 성동구 도선동"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 540,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 성동구 행당동"
+            },
+            {
+                "LineID": 305,
+                "LineName": "국철",
+                "StationID": "K126",
+                "OpenDate": "1978-12-09",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 성동구 행당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "한양대",
+        "name_en": "Hanyang University",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 209,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 성동구 행당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "뚝섬",
+        "name_en": "Ttukseom",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 210,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 성동구 성수동1가"
+            }
+        ]
+    },
+    {
+        "name_ko": "성수",
+        "name_en": "Seongsu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 211,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 성동구 성수동2가"
+            }
+        ]
+    },
+    {
+        "name_ko": "건대입구",
+        "name_en": "Konkuk University",
+        "PrevName_ko": "화양",
+        "PrevName_en": "Hwayang",
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 212,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 광진구 노유동",
+                    "서울특별시 광진구 화양동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 727,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 광진구 화양동"
+            }
+        ]
+    },
+    {
+        "name_ko": "구의 (광진구청)",
+        "name_en": "Guui (Gwangjin-gu Office)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 213,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 광진구 구의동",
+                    "서울특별시 광진구 자양동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "강변 (동서울터미널)",
+        "name_en": "Gangbyeon (Dong Seoul Bus Terminal)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 214,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 광진구 구의동"
+            }
+        ]
+    },
+    {
+        "name_ko": "성내",
+        "name_en": "Seongnae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 215,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 송파구 신천동"
+            }
+        ]
+    },
+    {
+        "name_ko": "잠실 (송파구청)",
+        "name_en": "Jamsil (Songpa-gu Office)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 216,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 송파구 신천동",
+                    "서울특별시 송파구 잠실동"
+                ]
+            },
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 814,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 신천동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신천",
+        "name_en": "Sincheon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 217,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 송파구 잠실동"
+            }
+        ]
+    },
+    {
+        "name_ko": "종합운동장",
+        "name_en": "Sports Complex",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 218,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 송파구 잠실동"
+            }
+        ]
+    },
+    {
+        "name_ko": "삼성",
+        "name_en": "Samseong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 219,
+                "OpenDate": "1982-12-23",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강남구 삼성동",
+                    "서울특별시 강남구 대치동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "선릉",
+        "name_en": "Seolleung",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 220,
+                "OpenDate": "1982-12-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강남구 역삼동",
+                    "서울특별시 강남구 삼성동",
+                    "서울특별시 강남구 대치동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "역삼",
+        "name_en": "Yeoksam",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 221,
+                "OpenDate": "1982-12-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 역삼동"
+            }
+        ]
+    },
+    {
+        "name_ko": "강남",
+        "name_en": "Gangnam",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 222,
+                "OpenDate": "1982-12-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강남구 역삼동",
+                    "서울특별시 서초구 서초동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "교대 (법원 · 검찰청)",
+        "name_en": "Seoul National University of Education (Court & Prosecutor's Office)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 223,
+                "OpenDate": "1982-12-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 서초동"
+            },
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 340,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 서초동"
+            }
+        ]
+    },
+    {
+        "name_ko": "서초",
+        "name_en": "Seocho",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 224,
+                "OpenDate": "1983-12-17",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 서초동"
+            }
+        ]
+    },
+    {
+        "name_ko": "방배",
+        "name_en": "Bangbae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 225,
+                "OpenDate": "1983-12-17",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 방배동"
+            }
+        ]
+    },
+    {
+        "name_ko": "사당",
+        "name_en": "Sadang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 226,
+                "OpenDate": "1983-12-17",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 서초구 방배동",
+                    "서울특별시 관악구 남현동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 433,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서초구 방배동",
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 관악구 남현동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "낙성대",
+        "name_en": "Nakseongdae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 227,
+                "OpenDate": "1983-12-17",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 관악구 봉천동"
+            }
+        ]
+    },
+    {
+        "name_ko": "서울대입구",
+        "name_en": "Seoul Nat'l Univ.",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 228,
+                "OpenDate": "1983-12-17",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 관악구 봉천동"
+            }
+        ]
+    },
+    {
+        "name_ko": "봉천",
+        "name_en": "Bongcheon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 229,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 관악구 봉천동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신림",
+        "name_en": "Sillim",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 230,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 관악구 신림동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신대방",
+        "name_en": "Sindaebang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 231,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 관악구 신림동",
+                    "서울특별시 동작구 신대방동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "구로공단",
+        "name_en": "Gurogongdan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 232,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 구로구 구로동",
+                    "서울특별시 영등포구 대림동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "대림",
+        "name_en": "Daerim",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 233,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 구로구 구로동",
+                    "서울특별시 영등포구 대림동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 744,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 영등포구 대림동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신도림",
+        "name_en": "Sindorim",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 140,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 구로구 신도림동"
+            },
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 234,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Island5",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 구로구 신도림동"
+            }
+        ]
+    },
+    {
+        "name_ko": "문래",
+        "name_en": "Mullae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 235,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 영등포구 문래동"
+            }
+        ]
+    },
+    {
+        "name_ko": "영등포구청",
+        "name_en": "Yeongdeungpo-gu Office",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 236,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 영등포구 당산동"
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 523,
+                "OpenDate": "1996-12-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 영등포구 당산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "당산",
+        "name_en": "Dangsan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 237,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 영등포구 당산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "합정",
+        "name_en": "Hapjeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 238,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 마포구 합정동",
+                    "서울특별시 마포구 서교동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 620,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 마포구 합정동"
+            }
+        ]
+    },
+    {
+        "name_ko": "홍대입구",
+        "name_en": "Hongik University",
+        "PrevName_ko": "동교",
+        "PrevName_en": "Donggyo",
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 239,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 마포구 동교동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신촌",
+        "name_en": "Sinchon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 240,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서대문구 창천동",
+                    "서울특별시 마포구 노고산동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "이대",
+        "name_en": "Ewha Women's University",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 241,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서대문구 대현동",
+                    "서울특별시 마포구 대흥동",
+                    "서울특별시 마포구 염리동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "아현",
+        "name_en": "Ahyeon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 242,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 마포구 아현동",
+                    "서울특별시 서대문구 북아현동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "충정로",
+        "name_en": "Chungjeongno",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 243,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서대문구 충정로3가동",
+                    "서울특별시 중구 중림동"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 531,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서대문구 충정로3가동"
+            }
+        ]
+    }
+]

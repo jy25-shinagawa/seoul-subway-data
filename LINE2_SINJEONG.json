@@ -1,0 +1,136 @@
+[
+    {
+        "name_ko": "신도림",
+        "name_en": "Sindorim",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 140,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 구로구 신도림동"
+            },
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 234,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Island5",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 구로구 신도림동"
+            }
+        ]
+    },
+    {
+        "name_ko": "도림천",
+        "name_en": "Dorimcheon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "234-1",
+                "OpenDate": "1992-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 구로구 신도림동"
+            }
+        ]
+    },
+    {
+        "name_ko": "양천구청",
+        "name_en": "Yangcheon-gu Office",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "234-2",
+                "OpenDate": "1992-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 양천구 신정동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신정네거리",
+        "name_en": "Sinjeongnegeori",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "234-3",
+                "OpenDate": "1996-02-29",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 양천구 신정동"
+            }
+        ]
+    },
+    {
+        "name_ko": "까치산",
+        "name_en": "Kkachisan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "234-4",
+                "OpenDate": "1996-03-20",
+                "Door": "Left",
+                "Platform": "Single",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 화곡동"
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": "518",
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 화곡동"
+            }
+        ]
+    }
+]

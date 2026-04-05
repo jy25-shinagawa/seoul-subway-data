@@ -1,0 +1,286 @@
+[
+    {
+        "name_ko": "서울역(지하)",
+        "name_en": "Seoul Station",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 133,
+                "OpenDate": "1974-08-15",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 남대문로5가동",
+                    "서울특별시 중구 봉래동2가"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 426,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 용산구 동자동"
+            }
+        ]
+    },
+    {
+        "name_ko": "시청",
+        "name_en": "City Hall",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 132,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 정동",
+                    "서울특별시 중구 태평로1가동",
+                    "서울특별시 중구 태평로2가동"
+                ]
+            },
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 201,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 서소문동",
+                    "서울특별시 중구 태평로2가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "종각",
+        "name_en": "Jonggak",
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 131,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 종로1가동",
+                    "서울특별시 종로구 관철동",
+                    "서울특별시 종로구 종로2가동",
+                    "서울특별시 종로구 서린동",
+                    "서울특별시 종로구 공평동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "종로3가",
+        "name_en": "Jongno sam(3)-ga",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 130,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 종로구 종로3가동"
+            },
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 329,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 묘동",
+                    "서울특별시 종로구 종로3가동"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 534,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 종로구 돈의동",
+                    "서울특별시 중구 낙원동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "종로5가",
+        "name_en": "Jongno o(5)-ga",
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 129,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 종로5가동",
+                    "서울특별시 종로구 종로4가동"   
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "동대문",
+        "name_en": "Dongdaemun",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 128,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 창신동",
+                    "서울특별시 종로구 종로6가동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 421,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 종로6가동",
+                    "서울특별시 종로구 창신동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "신설동",
+        "name_en": "Sinseol-Dong",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 127,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동대문구 신설동",
+                    "서울특별시 종로구 숭인동"
+                ]
+            },
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "211-3",
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 동대문구 신설동"
+            }
+        ]
+    },
+    {
+        "name_ko": "제기동",
+        "name_en": "Jegi-Dong",
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 126,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동대문구 용두동",
+                    "서울특별시 동대문구 제기동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "청량리(지하)",
+        "name_en": "Cheongnyangni",
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 125,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동대문구 청량리동",
+                    "서울특별시 동대문구 전농동",
+                    "서울특별시 동대문구 제기동"
+                ]
+            }
+        ]
+    }
+]
