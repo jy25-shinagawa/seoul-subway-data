@@ -1,0 +1,792 @@
+[
+    {
+        "name_ko": "당고개",
+        "name_en": "Danggogae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 409,
+                "OpenDate": "1993-04-21",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 노원구 상계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "상계",
+        "name_en": "Sanggye",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 410,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 노원구 상계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "노원",
+        "name_en": "Nowon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 411,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 노원구 상계동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 713,
+                "OpenDate": "1996-10-11",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 상계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "창동",
+        "name_en": "Chang-dong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 412,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 도봉구 창동"
+            },
+            {
+                "LineID": 1,
+                "LineName": "경원선",
+                "StationID": 117,
+                "OpenDate": "1985-08-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 도봉구 창동"
+            }
+        ]
+    },
+    {
+        "name_ko": "쌍문",
+        "name_en": "Ssangmun",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 413,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 도봉구 창동",
+                    "서울특별시 도봉구 쌍문동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "수유",
+        "name_en": "Suyu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 414,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강북구 번동",
+                    "서울특별시 강북구 수유동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "미아",
+        "name_en": "Mia",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 415,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강북구 미아동"
+            }
+        ]
+    },
+    {
+        "name_ko": "미아삼거리",
+        "name_en": "Miasamgeori",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 416,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강북구 미아동",
+                    "서울특별시 성북구 길음동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "길음",
+        "name_en": "Gireum",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 417,
+                "OpenDate": "1985-04-20",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 성북구 길음동",
+                    "서울특별시 성북구 하월곡동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "성신여대입구 (돈암)",
+        "name_en": "Sungshin Women's University (Donam)",
+        "PrevName_ko": "돈암",
+        "PrevName_en": "Donam",
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 418,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 성북구 동선동1가",
+                    "서울특별시 성북구 동선동4가",
+                    "서울특별시 성북구 동소문동5가",
+                    "서울특별시 성북구 동소문동6가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "한성대입구 (삼선교)",
+        "name_en": "Hansung University (Samseongyo)",
+        "PrevName_ko": "삼선교",
+        "PrevName_en": "Samseongyo",
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 419,
+                "OpenDate": "1985-04-20",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 성북구 동소문동1가",
+                    "서울특별시 성북구 동소문동2가",
+                    "서울특별시 성북구 성북동1가",
+                    "서울특별시 성북구 삼선동1가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "혜화",
+        "name_en": "Hyehwa",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 420,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 동숭동",
+                    "서울특별시 종로구 연건동",
+                    "서울특별시 종로구 명륜동4가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "동대문",
+        "name_en": "Dongdaemun",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 128,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 창신동",
+                    "서울특별시 종로구 종로6가동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 421,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 종로6가동",
+                    "서울특별시 종로구 창신동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "동대문운동장",
+        "name_en": "Dongdaemun Stadium",
+        "PrevName_ko": "서울운동장",
+        "PrevName_en": "Seoul Stadium",
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 205,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로7가동",
+                    "서울특별시 중구 을지로6가동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 422,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 광희동2가",
+                    "서울특별시 중구 광희동1가"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 536,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 광희동1가",
+                    "서울특별시 중구 광희동2가",
+                    "서울특별시 중구 쌍림동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "충무로",
+        "name_en": "Chungmuro",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 331,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 필동2가",
+                    "서울특별시 중구 필동1가",
+                    "서울특별시 중구 충무로4가동",
+                    "서울특별시 중구 충무로3가동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 423,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 충무로4가동",
+                    "서울특별시 중구 필동2가",
+                    "서울특별시 중구 필동1가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "명동",
+        "name_en": "Myeong-dong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 424,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 충무로2가동",
+                    "서울특별시 중구 남산동3가",
+                    "서울특별시 중구 충무로1가동",
+                    "서울특별시 중구 남산동1가",
+                    "서울특별시 중구 회현동3가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "회현",
+        "name_en": "Hoehyeon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 425,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 남창동",
+                    "서울특별시 중구 회현동1가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "서울역(지하)",
+        "name_en": "Seoul Station",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 133,
+                "OpenDate": "1974-08-15",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 남대문로5가동",
+                    "서울특별시 중구 봉래동2가"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 426,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 용산구 동자동"
+            }
+        ]
+    },
+    {
+        "name_ko": "숙대입구",
+        "name_en": "Sookmyung Women's University",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 427,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 용산구 갈월동",
+                    "서울특별시 용산구 남영동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "삼각지",
+        "name_en": "Samgakji",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 428,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 용산구 한강로1가동"
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 628,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 용산구 한강로1가동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신용산",
+        "name_en": "Sinyongsan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 429,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 용산구 한강로2가동"
+            }
+        ]
+    },
+    {
+        "name_ko": "이촌",
+        "name_en": "Ichon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 430,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 용산구 용산동5가"
+            },
+            {
+                "LineID": 305,
+                "LineName": "국철",
+                "StationID": "K131",
+                "OpenDate": "1978-12-09",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 용산구 용산동5가"
+            }
+        ]
+    },
+    {
+        "name_ko": "동작",
+        "name_en": "Dongjak",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 431,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동작구 동작동",
+                    "서울특별시 서초구 반포동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": [
+            "총신대입구",
+            "이수"
+        ],
+        "name_en": [
+            "Chongsin University",
+            "Isu"
+        ],
+        "PrevName_ko": "이수",
+        "PrevName_en": "Isu",
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 432,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 서초구 방배동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 736,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 서초구 방배동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "사당",
+        "name_en": "Sadang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 226,
+                "OpenDate": "1983-12-17",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 서초구 방배동",
+                    "서울특별시 관악구 남현동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 433,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서초구 방배동",
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 관악구 남현동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "남태령",
+        "name_en": "Namtaeryeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 434,
+                "OpenDate": "1994-04-01",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서초구 방배동",
+                    "서울특별시 관악구 남현동"
+                ]
+            }
+        ]
+    }
+]
