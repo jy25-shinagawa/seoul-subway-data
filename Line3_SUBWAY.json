@@ -226,8 +226,8 @@
         ]
     },
     {
-        "name_ko": "경복궁",
-        "name_en": "Gyeongbokgung",
+        "name_ko": "경복궁 (정부중앙청사)",
+        "name_en": "Gyeongbokgung (Central Government Complex)",
         "PrevName_ko": null,
         "PrevName_en": null,
         "Renamed": false,
@@ -506,10 +506,10 @@
             {
                 "LineID": 3,
                 "LineName": "3호선",
-                "StationID": "333",
+                "StationID": "335",
                 "OpenDate": "1985-10-18",
-                "Door": "Left",
-                "Platform": "Island",
+                "Door": "Right",
+                "Platform": "Side",
                 "Crossing": true,
                 "Operator_ko": "서울특별시지하철공사",
                 "Operator_en": "SMSC",
@@ -529,4 +529,362 @@
             }
         ]
     },
+    {
+        "name_ko": "압구정",
+        "name_en": "Apgujeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "336",
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강남구 신사동",
+                    "서울특별시 강남구 압구정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "신사",
+        "name_en": "Sinsa",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "337",
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강남구 신사동",
+                    "서울특별시 강남구 논현동",
+                    "서울특별시 서초구 잠원동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "잠원",
+        "name_en": "Jamwon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "338",
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 잠원동"
+            }
+        ]
+    },
+    {
+        "name_ko": "고속터미널",
+        "name_en": "Express Bus Terminal",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "339",
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 반포동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": "734",
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 서초구 반포동"
+            }
+        ]
+    },
+    {
+        "name_ko": "교대 (법원 · 검찰청)",
+        "name_en": "Seoul National University of Education (Court & Prosecutor's Office)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 223,
+                "OpenDate": "1982-12-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 서초동"
+            },
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 340,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 서초동"
+            }
+        ]
+    },
+    {
+        "name_ko": "남부터미널 (예술의전당)",
+        "name_en": "Nambu Bus Terminal (Seoul Arts Center)",
+        "PrevName_ko": "화물터미널",
+        "PrevName_en": null,
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 341,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 서초동"
+            }
+        ]
+    },
+    {
+        "name_ko": "양재 (서초구청)",
+        "name_en": "Yangjae (Seocho-gu Office)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 342,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강남구 도곡동",
+                    "서울특별시 서초구 서초동",
+                    "서울특별시 서초구 양재동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "매봉",
+        "name_en": "Maebong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 343,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 도곡동"
+            }
+        ]
+    },
+    {
+        "name_ko": "도곡",
+        "name_en": "Dogok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 344,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 도곡동"
+            }
+        ]
+    },
+    {
+        "name_ko": "대치",
+        "name_en": "Daechi",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 345,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 대치동"
+            }
+        ]
+    },
+    {
+        "name_ko": "학여울",
+        "name_en": "Hakyul",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 346,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 대치동"
+            }
+        ]
+    },
+    {
+        "name_ko": "대청",
+        "name_en": "Daecheong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 347,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 강남구 일원동",
+                    "서울특별시 강남구 개포동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "일원",
+        "name_en": "Irwon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 348,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 일원동"
+            }
+        ]
+    },
+    {
+        "name_ko": "수서",
+        "name_en": "Suseo",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 349,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 수서동"
+            },
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K221",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 강남구 수서동"
+            }
+        ]
+    }
 ]
