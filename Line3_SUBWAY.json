@@ -1,0 +1,532 @@
+[
+    {
+        "name_ko": "지축",
+        "name_en": "Jichuk",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "319",
+                "OpenDate": "1990-07-13",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": [
+                    "서울특별시지하철공사",
+                    "철도청"
+                ],
+                "Operator_en": [
+                    "SMSC",
+                    "KNR"
+                ],
+                "Address_ko": "경기도 고양시 덕양구 지축동"
+            }
+        ]
+    },
+    {
+        "name_ko": "구파발",
+        "name_en": "Gupabal",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "320",
+                "OpenDate": "1985-07-12",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 은평구 진관동"
+            }
+        ]
+    },
+    {
+        "name_ko": "연신내",
+        "name_en": "Yeonsinnae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "321",
+                "OpenDate": "1985-07-12",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 은평구 불광동",
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 갈현동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": "614",
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Single",
+                "Crossing": null,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 불광동",
+                    "서울특별시 은평구 갈현동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "불광",
+        "name_en": "Bulgwang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "322",
+                "OpenDate": "1985-07-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 불광동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": "614",
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Single",
+                "Crossing": null,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 불광동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "녹번",
+        "name_en": "Nokbeon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "323",
+                "OpenDate": "1985-07-12",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 은평구 녹번동",
+                    "서울특별시 은평구 응암동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "홍제",
+        "name_en": "Hongje",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "324",
+                "OpenDate": "1985-07-12",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서대문구 홍제동"
+            }
+        ]
+    },
+    {
+        "name_ko": "무악재",
+        "name_en": "Muakjae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "325",
+                "OpenDate": "1985-07-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서대문구 홍제동"
+            }
+        ]
+    },
+    {
+        "name_ko": "독립문",
+        "name_en": "Dongnimmun",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "326",
+                "OpenDate": "1985-07-12",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서대문구 현저동",
+                    "서울특별시 종로구 무악동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "경복궁",
+        "name_en": "Gyeongbokgung",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "327",
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 적선동",
+                    "서울특별시 종로구 내자동",
+                    "서울특별시 종로구 세종로동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "안국",
+        "name_en": "Anguk",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "328",
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 경운동",
+                    "서울특별시 종로구 안국동",
+                    "서울특별시 종로구 재동",
+                    "서울특별시 종로구 계동",
+                    "서울특별시 종로구 운니동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "종로3가",
+        "name_en": "Jongno sam(3)-ga",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 130,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 종로구 종로3가동"
+            },
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 329,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 묘동",
+                    "서울특별시 종로구 종로3가동"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 534,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 종로구 돈의동",
+                    "서울특별시 중구 낙원동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "을지로3가",
+        "name_en": "Euljiro sam(3)-ga",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 203,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로3가동",
+                    "서울특별시 중구 을지로2가동"
+                ]
+            },
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 330,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로3가동",
+                    "서울특별시 중구 초동",
+                    "서울특별시 중구 입정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "충무로",
+        "name_en": "Chungmuro",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 331,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 충무로4가",
+                    "서울특별시 중구 필동1가",
+                    "서울특별시 중구 필동2가"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 424,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 필동2가",
+                    "서울특별시 중구 충무로4가",
+                    "서울특별시 중구 필동1가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "동대입구",
+        "name_en": "Dongguk University",
+        "PrevName_ko": "장충",
+        "PrevName_en": null,
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 331,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 장충동2가",
+                    "서울특별시 중구 장충동1가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "약수",
+        "name_en": "Yaksu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "333",
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 중구 신당동"
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": "633",
+                "OpenDate": "2001-03-09",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중구 신당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "금호",
+        "name_en": "Geumho",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "334",
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 성동구 금호동3가",
+                    "서울특별시 성동구 금호동4가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "옥수",
+        "name_en": "Oksu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "333",
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 성동구 옥수동"
+            },
+            {
+                "LineID": 305,
+                "LineName": "국철",
+                "StationID": "K128",
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 성동구 옥수동"
+            }
+        ]
+    },
+]
