@@ -1,0 +1,1096 @@
+[
+    {
+        "name_ko": "장암",
+        "name_en": "Jangam",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 709,
+                "OpenDate": "1996-10-11",
+                "Door": "Left",
+                "Platform": "Single",
+                "Crossing": null,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "경기도 의정부시 장암동"
+            }
+        ]
+    },
+    {
+        "name_ko": "도봉산",
+        "name_en": "Dobongsan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "경원선",
+                "StationID": 114,
+                "OpenDate": "1986-09-02",
+                "Door": "Left",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 도봉구 도봉동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 710,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 도봉구 도봉동"
+            }
+        ]
+    },
+    {
+        "name_ko": "수락산",
+        "name_en": "Suraksan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 711,
+                "OpenDate": "1996-10-11",
+                "Door": "Both",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 상계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "마들",
+        "name_en": "Madeul",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 712,
+                "OpenDate": "1996-10-11",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 상계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "노원",
+        "name_en": "Nowon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 411,
+                "OpenDate": "1985-04-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 노원구 상계동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 713,
+                "OpenDate": "1996-10-11",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 상계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "중계",
+        "name_en": "Junggye",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 714,
+                "OpenDate": "1996-10-11",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 중계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "하계",
+        "name_en": "Hagye",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 715,
+                "OpenDate": "1996-10-11",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 하계동"
+            }
+        ]
+    },
+    {
+        "name_ko": "공릉 (서울산업대입구)",
+        "name_en": "Gongneung (Seoul National University of Technology)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 716,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 공릉동"
+            }
+        ]
+    },
+    {
+        "name_ko": "태릉입구",
+        "name_en": "Taereung",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 645,
+                "OpenDate": "2000-08-07",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 공릉동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 717,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 공릉동"
+            }
+        ]
+    },
+    {
+        "name_ko": "먹골",
+        "name_en": "Meokgol",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 718,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중랑구 묵동"
+            }
+        ]
+    },
+    {
+        "name_ko": "중화",
+        "name_en": "Junghwa",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 719,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중랑구 중화동"
+            }
+        ]
+    },
+    {
+        "name_ko": "상봉 (시외버스터미널)",
+        "name_en": "Sangbong (Intercity bus terminal)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 720,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중랑구 상봉동"
+            }
+        ]
+    },
+    {
+        "name_ko": "면목",
+        "name_en": "Myeonmok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 721,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중랑구 면목동"
+            }
+        ]
+    },
+    {
+        "name_ko": "사가정",
+        "name_en": "Sagajeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 722,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중랑구 면목동"
+            }
+        ]
+    },
+    {
+        "name_ko": "용마산",
+        "name_en": "Yongmasan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 723,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중랑구 면목동"
+            }
+        ]
+    },
+    {
+        "name_ko": "중곡",
+        "name_en": "Junggok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 724,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 광진구 중곡동"
+            }
+        ]
+    },
+    {
+        "name_ko": "군자 (능동)",
+        "name_en": "Gunja (Neung-dong)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 544,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 광진구 중곡동",
+                    "서울특별시 광진구 능동",
+                    "서울특별시 광진구 군자동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 725,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 광진구 중곡동",
+                    "서울특별시 광진구 능동",
+                    "서울특별시 광진구 군자동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "어린이대공원 (세종대)",
+        "name_en": "Children's Grand Park (Sejong University)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 726,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 광진구 중곡동",
+                    "서울특별시 광진구 능동",
+                    "서울특별시 광진구 군자동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "건대입구",
+        "name_en": "Konkuk University",
+        "PrevName_ko": "화양",
+        "PrevName_en": "Hwayang",
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 212,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 광진구 자양동",
+                    "서울특별시 광진구 화양동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 727,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 광진구 화양동"
+            }
+        ]
+    },
+    {
+        "name_ko": "뚝섬유원지",
+        "name_en": "Ttukseom Resort",
+        "PrevName_ko": "자양",
+        "PrevName_en": null,
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 728,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 광진구 자양동"
+            }
+        ]
+    },
+    {
+        "name_ko": "청담",
+        "name_en": "Cheongdam",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 729,
+                "OpenDate": "2000-08-01",
+                "Door": "Left",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강남구 청담동",
+                    "서울특별시 강남구 삼성동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "강남구청",
+        "name_en": "Gangnam-gu Office",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 730,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강남구 논현동",
+                    "서울특별시 강남구 청담동",
+                    "서울특별시 강남구 삼성동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "학동",
+        "name_en": "Hak-dong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 731,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강남구 논현동"
+            }
+        ]
+    },
+    {
+        "name_ko": "논현",
+        "name_en": "Nonhyeon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 732,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강남구 논현동",
+                    "서울특별시 서초구 반포동",
+                    "서울특별시 서초구 잠원동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "반포",
+        "name_en": "Banpo",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 733,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 서초구 반포동",
+                    "서울특별시 서초구 잠원동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "고속터미널",
+        "name_en": "Express Bus Terminal",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 339,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서초구 반포동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 734,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 서초구 반포동"
+            }
+        ]
+    },
+    {
+        "name_ko": "내방",
+        "name_en": "Naebang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 735,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 서초구 방배동"
+            }
+        ]
+    },
+    {
+        "name_ko": [
+            "총신대입구",
+            "이수"
+        ],
+        "name_en": [
+            "Chongsin University",
+            "Isu"
+        ],
+        "PrevName_ko": "이수",
+        "PrevName_en": "Isu",
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 432,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 서초구 방배동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 736,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 동작구 사당동",
+                    "서울특별시 서초구 방배동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "남성",
+        "name_en": "Namseong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 737,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 동작구 사당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "숭실대입구 (살피재)",
+        "name_en": "Soongsil University (Salpijae)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 738,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 동작구 상도동"
+            }
+        ]
+    },
+    {
+        "name_ko": "상도 (중앙대앞)",
+        "name_en": "Sangdo (Chung-Ang University)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 739,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 동작구 상도1동"
+            }
+        ]
+    },
+    {
+        "name_ko": "장승배기",
+        "name_en": "Jangseungbaegi",
+        "PrevName_ko": "장승백이",
+        "PrevName_en": null,
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 740,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 동작구 사당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신대방삼거리",
+        "name_en": "Sindaebangsamgeori",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 741,
+                "OpenDate": "2000-08-01",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 동작구 대방동"
+            }
+        ]
+    },
+    {
+        "name_ko": "보라매",
+        "name_en": "Boramae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 742,
+                "OpenDate": "2000-08-01",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 동작구 대방동",
+                    "서울특별시 영등포구 신길동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "신풍",
+        "name_en": "Sinpung",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 743,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 영등포구 신길동"
+            }
+        ]
+    },
+    {
+        "name_ko": "대림",
+        "name_en": "Daerim",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 233,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 구로구 구로동",
+                    "서울특별시 영등포구 대림동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 744,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 영등포구 대림동"
+            }
+        ]
+    },
+    {
+        "name_ko": "남구로",
+        "name_en": "Namguro",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 745,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 구로구 구로동"
+            }
+        ]
+    },
+    {
+        "name_ko": "가리봉",
+        "name_en": "Garibong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "경부선",
+                "StationID": "P142",
+                "OpenDate": "1974-08-15",
+                "Door": "Right",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 금천구 가산동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 746,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 금천구 가산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "철산",
+        "name_en": "Cheolsan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 747,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "경기도 광명시 철산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "광명",
+        "name_en": "Gwangmyeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 748,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Island4",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "경기도 광명시 광명동"
+            }
+        ]
+    },
+    {
+        "name_ko": "천왕",
+        "name_en": "Cheonwang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 749,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 구로구 천왕동",
+                    "서울특별시 구로구 오류동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "온수",
+        "name_en": "Onsu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "경인선",
+                "StationID": 145,
+                "OpenDate": "1988-01-16",
+                "Door": "Right",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 구로구 온수동"
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 750,
+                "OpenDate": "2000-02-29",
+                "Door": "Right",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 구로구 온수동"
+            }
+        ]
+    }
+]

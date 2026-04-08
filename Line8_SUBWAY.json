@@ -1,0 +1,479 @@
+[
+    {
+        "name_ko": "암사",
+        "name_en": "Amsa",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 810,
+                "OpenDate": "1999-07-02",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 암사동",
+                    "서울특별시 강동구 천호동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "천호 (풍납토성)",
+        "name_en": "Cheonho (Pungnaptoseong)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 547,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 성내동",
+                    "서울특별시 송파구 풍납동",
+                    "서울특별시 강동구 천호동"
+                ]
+            },
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 811,
+                "OpenDate": "1999-07-02",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 풍납동",
+                    "서울특별시 강동구 성내동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "강동구청",
+        "name_en": "Gangdong-gu Office",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 812,
+                "OpenDate": "1999-07-02",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 풍납동",
+                    "서울특별시 강동구 성내동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "몽촌토성 (평화의문)",
+        "name_en": "Mongchontoseong (World Peace Gate)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 813,
+                "OpenDate": "1999-07-02",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 신천동",
+                    "서울특별시 송파구 방이동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "잠실 (송파구청)",
+        "name_en": "Jamsil (Songpa-gu Office)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 216,
+                "OpenDate": "1980-10-31",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 송파구 신천동",
+                    "서울특별시 송파구 잠실동"
+                ]
+            },
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 814,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 신천동"
+            }
+        ]
+    },
+    {
+        "name_ko": "석촌",
+        "name_en": "Seokchon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 815,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 송파동",
+                    "서울특별시 송파구 석촌동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "송파",
+        "name_en": "Songpa",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 816,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 가락동"
+            }
+        ]
+    },
+    {
+        "name_ko": "가락시장",
+        "name_en": "Garak Market",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 817,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 가락동",
+                    "서울특별시 송파구 문정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "문정",
+        "name_en": "Munjeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 818,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 가락동",
+                    "서울특별시 송파구 문정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "장지",
+        "name_en": "Jangji",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 819,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 장지동",
+                    "서울특별시 송파구 문정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "복정",
+        "name_en": "Bokjeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 820,
+                "OpenDate": "1996-11-23",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 장지동"
+            },
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K222",
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": [
+                    "서울특별시 송파구 장지동",
+                    "경기도 성남시 수정구 복정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "산성",
+        "name_en": "Sanseong",
+        "PrevName_ko": "남한산성",
+        "PrevName_en": "Namhansanseong",
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 821,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "경기도 성남시 수정구 창곡동",
+                    "경기도 성남시 수정구 신흥동",
+                    "경기도 성남시 수정구 산성동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "남한산성입구",
+        "name_en": "Namhansanseong",
+        "PrevName_ko": "단대",
+        "PrevName_en": "Tandae",
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 822,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "경기도 성남시 중원구 금광동",
+                    "경기도 성남시 중원구 단대동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "단대오거리",
+        "name_en": "Dandaeogeori",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 823,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "경기도 성남시 중원구 금광동",
+                    "경기도 성남시 중원구 신흥동",
+                    "경기도 성남시 중원구 중앙동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "신흥",
+        "name_en": "Sinheung",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 824,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "경기도 성남시 중원구 신흥동",
+                    "경기도 성남시 중원구 중앙동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "수진",
+        "name_en": "Sujin",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 825,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "경기도 성남시 중원구 성남동",
+                    "경기도 성남시 중원구 신흥동",
+                    "경기도 성남시 중원구 수진동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "모란",
+        "name_en": "Moran",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 826,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "경기도 성남시 중원구 수진동",
+                    "경기도 성남시 중원구 성남동"
+                ]
+            },
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K223",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 중원구 성남동"
+            }
+        ]
+    }
+]
