@@ -1,0 +1,1421 @@
+[
+    {
+        "name_ko": "방화",
+        "name_en": "Banghwa",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 510,
+                "OpenDate": "1996-03-20",
+                "Door": "Both",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 방화동"
+            }
+        ]
+    },
+    {
+        "name_ko": "개화산",
+        "name_en": "Gawhwasan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 511,
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 방화동"
+            }
+        ]
+    },
+    {
+        "name_ko": "김포공항",
+        "name_en": "Gimpo International Airport",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 512,
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강서구 방화동",
+                    "서울특별시 강서구 과해동",
+                    "서울특별시 강서구 공항동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "송정",
+        "name_en": "Songjeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 513,
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 공항동"
+            }
+        ]
+    },
+    {
+        "name_ko": "마곡",
+        "name_en": "Magok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 514,
+                "OpenDate": null,
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 마곡동"
+            }
+        ]
+    },
+    {
+        "name_ko": "발산",
+        "name_en": "Balsan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 515,
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강서구 마곡동",
+                    "서울특별시 강서구 내발산동",
+                    "서울특별시 강서구 등촌동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "우장산",
+        "name_en": "Ujangsan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 516,
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강서구 내발산동",
+                    "서울특별시 강서구 화곡동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "화곡",
+        "name_en": "Hwagok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 517,
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 화곡동"
+            }
+        ]
+    },
+    {
+        "name_ko": "까치산",
+        "name_en": "Kkachisan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": "234-4",
+                "OpenDate": "1996-03-20",
+                "Door": "Left",
+                "Platform": "Single",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 화곡동"
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 518,
+                "OpenDate": "1996-03-20",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강서구 화곡동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신정",
+        "name_en": "Sinjeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 519,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 양천구 신정동"
+            }
+        ]
+    },
+    {
+        "name_ko": "목동",
+        "name_en": "Mok-dong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 520,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 양천구 목동",
+                    "서울특별시 양천구 신정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "오목교",
+        "name_en": "Omokgyo",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 521,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 양천구 목동"
+            }
+        ]
+    },
+    {
+        "name_ko": "양평",
+        "name_en": "Yangpyeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 522,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 영등포구 양평동3가",
+                    "서울특별시 영등포구 양평동1가",
+                    "서울특별시 영등포구 양평동2가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "영등포구청",
+        "name_en": "Yeongdeungpo-gu Office",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 236,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 영등포구 당산동"
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 523,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 영등포구 당산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "영등포시장",
+        "name_en": "Yeongdeungpo Market",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 524,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 영등포구 영등포동7가",
+                    "서울특별시 영등포구 영등포동5가",
+                    "서울특별시 영등포구 영등포동6가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "신길",
+        "name_en": "Singil",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 138,
+                "OpenDate": "1997-04-30",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 영등포구 신길동"
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 525,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 영등포구 영등포동1가"
+            }
+        ]
+    },
+    {
+        "name_ko": "여의도",
+        "name_en": "Yeouido",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 526,
+                "OpenDate": "1996-08-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 영등포구 여의도동"
+            }
+        ]
+    },
+    {
+        "name_ko": "여의나루",
+        "name_en": "Yeouinaru",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 527,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 영등포구 여의도동"
+            }
+        ]
+    },
+    {
+        "name_ko": "마포",
+        "name_en": "Mapo",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 528,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 도화동",
+                    "서울특별시 마포구 마포동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "공덕",
+        "name_en": "Gongdeok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 529,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 공덕동",
+                    "서울특별시 마포구 도화동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 626,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 공덕동",
+                    "서울특별시 마포구 신공덕동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "애오개",
+        "name_en": "Aeogae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 530,
+                "OpenDate": "1996-12-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 마포구 아현동"
+            }
+        ]
+    },
+    {
+        "name_ko": "충정로",
+        "name_en": "Chungjeongno",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 243,
+                "OpenDate": "1984-05-22",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 서대문구 충정로3가동",
+                    "서울특별시 중구 중림동"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 531,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 서대문구 충정로3가동"
+            }
+        ]
+    },
+    {
+        "name_ko": "서대문",
+        "name_en": "Seodaemun",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 532,
+                "OpenDate": "1996-12-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 서대문구 충정로2가동",
+                    "서울특별시 중구 충정로1가동",
+                    "서울특별시 종로구 평동",
+                    "서울특별시 종로구 의주로1가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "광화문",
+        "name_en": "Gwanghwamun",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 533,
+                "OpenDate": "1996-12-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 종로구 세종로동",
+                    "서울특별시 종로구 도렴동",
+                    "서울특별시 종로구 당주동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "종로3가",
+        "name_en": "Jongno sam(3)-ga",
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "1호선",
+                "StationID": 130,
+                "OpenDate": "1974-08-15",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 종로구 종로3가동"
+            },
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 329,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 종로구 묘동",
+                    "서울특별시 종로구 종로3가동"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 534,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 종로구 돈의동",
+                    "서울특별시 중구 낙원동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "을지로4가",
+        "name_en": "Euljiro sa(4)-ga",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 204,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 중구 을지로4가동"
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 535,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 주교동",
+                    "서울특별시 중구 을지로4가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "동대문운동장",
+        "name_en": "Dongdaemun Stadium",
+        "PrevName_ko": "서울운동장",
+        "PrevName_en": "Seoul Stadium",
+        "Renamed": true,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 205,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 을지로7가동",
+                    "서울특별시 중구 을지로6가동"
+                ]
+            },
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 422,
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 광희동2가",
+                    "서울특별시 중구 광희동1가"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 536,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 광희동1가",
+                    "서울특별시 중구 광희동2가",
+                    "서울특별시 중구 쌍림동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "청구",
+        "name_en": "Cheonggu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 537,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중구 신당동"
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 634,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중구 신당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신금호",
+        "name_en": "Singeumho",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 538,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 금호동1가",
+                    "서울특별시 중구 금호동2가"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "행당",
+        "name_en": "Haengdang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 539,
+                "OpenDate": "1996-12-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 성동구 행당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "왕십리",
+        "name_en": "Wangsimni",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 208,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 성동구 행당동",
+                    "서울특별시 성동구 도선동"
+                ]
+            },
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 540,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 성동구 행당동"
+            },
+            {
+                "LineID": 305,
+                "LineName": "국철",
+                "StationID": "K126",
+                "OpenDate": "1978-12-09",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 성동구 행당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "마장",
+        "name_en": "Majang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 541,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 성동구 마장동"
+            }
+        ]
+    },
+    {
+        "name_ko": "답십리",
+        "name_en": "Dapsimni",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 542,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 성동구 용답동",
+                    "서울특별시 동대문구 답십리동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "장한평",
+        "name_en": "Janghanpyeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 543,
+                "OpenDate": "1995-11-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 성동구 용답동",
+                    "서울특별시 동대문구 장안동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "군자 (능동)",
+        "name_en": "Gunja (Neung-dong)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 544,
+                "OpenDate": "1995-11-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 광진구 중곡동",
+                    "서울특별시 광진구 군자동",
+                    "서울특별시 광진구 능동"
+                ]
+            },
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 725,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 광진구 중곡동",
+                    "서울특별시 광진구 군자동",
+                    "서울특별시 광진구 능동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "아차산 (어린이대공원후문)",
+        "name_en": "Achasan (Rear Entrance to Seoul Children's Grand Park)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 545,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 광진구 구의동",
+                    "서울특별시 광진구 능동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "광나루 (장신대)",
+        "name_en": "Gwangnaru (Presbyterian College and Seminary)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 546,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 광진구 광장동"
+            }
+        ]
+    },
+    {
+        "name_ko": "천호 (풍납토성)",
+        "name_en": "Cheonho (Pungnaptoseong)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 547,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 성내동",
+                    "서울특별시 송파구 풍납동",
+                    "서울특별시 강동구 천호동"
+                ]
+            },
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 811,
+                "OpenDate": "1999-07-02",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 성내동",
+                    "서울특별시 송파구 풍납동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "강동",
+        "name_en": "Gangdong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 548,
+                "OpenDate": "1995-11-15",
+                "Door": "Both",
+                "Platform": "Island4",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 성내동",
+                    "서울특별시 강동구 천호동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "길동",
+        "name_en": "Gil-dong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 549,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 강동구 길동"
+            }
+        ]
+    },
+    {
+        "name_ko": "굽은다리",
+        "name_en": "Gubeundari",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 550,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 천호동",
+                    "서울특별시 강동구 명일동",
+                    "서울특별시 강동구 길동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "명일",
+        "name_en": "Myeongil",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 551,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 명일동",
+                    "서울특별시 강동구 천호동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "고덕",
+        "name_en": "Godeok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 552,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 명일동",
+                    "서울특별시 강동구 고덕동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "상일동",
+        "name_en": "Sangil-dong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 553,
+                "OpenDate": "1995-11-15",
+                "Door": "Right",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 상일동",
+                    "서울특별시 강동구 고덕동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "둔촌동",
+        "name_en": "Dunchon-dong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": [554, "P549"],
+                "OpenDate": "1996-03-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 강동구 성내동",
+                    "서울특별시 강동구 둔촌동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "올림픽공원",
+        "name_en": "Olympic Park",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": [555, "P550"],
+                "OpenDate": "1996-03-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 방이동"
+            }
+        ]
+    },
+    {
+        "name_ko": "방이",
+        "name_en": "Bangi",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": [556, "P551"],
+                "OpenDate": "1996-03-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 방이동",
+                    "서울특별시 송파구 오금동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "오금",
+        "name_en": "Ogeum",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": [557, "P552"],
+                "OpenDate": "1996-03-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 오금동",
+                    "서울특별시 송파구 가락동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "개롱",
+        "name_en": "Gaerong",
+        "PrevName_ko": "개농",
+        "PrevName_en": "Kaenong",
+        "Renamed": true,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": [558, "P553"],
+                "OpenDate": "1996-03-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 송파구 오금동",
+                    "서울특별시 송파구 가락동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "거여",
+        "name_en": "Georyo",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": [559, "P554"],
+                "OpenDate": "1996-03-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 거여동"
+            }
+        ]
+    },
+    {
+        "name_ko": "마천",
+        "name_en": "Macheon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": [560, "P555"],
+                "OpenDate": "1996-03-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 마천동"
+            }
+        ]
+    }
+]

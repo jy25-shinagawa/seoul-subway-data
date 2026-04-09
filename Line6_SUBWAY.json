@@ -1,0 +1,1059 @@
+[
+    {
+        "name_ko": "응암",
+        "name_en": "Eungam",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 610,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 신사동",
+                    "서울특별시 은평구 역촌동",
+                    "서울특별시 은평구 응암동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "역촌",
+        "name_en": "Yeokchon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 611,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Single",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 녹번동",
+                    "서울특별시 은평구 역촌동",
+                    "서울특별시 은평구 대조동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "불광",
+        "name_en": "Bulgwang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "322",
+                "OpenDate": "1985-07-12",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 불광동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": "614",
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Single",
+                "Crossing": null,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 불광동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "독바위",
+        "name_en": "Dokbawi",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 613,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Single",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 은평구 불광동"
+            }
+        ]
+    },
+    {
+        "name_ko": "연신내",
+        "name_en": "Yeonsinnae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "321",
+                "OpenDate": "1985-07-12",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 은평구 불광동",
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 갈현동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": "614",
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Single",
+                "Crossing": null,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 불광동",
+                    "서울특별시 은평구 갈현동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "구산",
+        "name_en": "Gusan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 615,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Single",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 불광동",
+                    "서울특별시 은평구 구산동",
+                    "서울특별시 은평구 대조동",
+                    "서울특별시 은평구 역촌동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "새절",
+        "name_en": "Saejeol",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 616,
+                "OpenDate": "2000-12-15",
+                "Door": "Both",
+                "Platform": "Island4",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 신사동",
+                    "서울특별시 은평구 응암동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "증산 (명지대앞)",
+        "name_en": "Jeungsan (Myongji University)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 617,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 은평구 증산동",
+                    "서울특별시 서대문구 북가좌동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "수색",
+        "name_en": "Susaek",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 618,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 상암동",
+                    "서울특별시 은평구 증산동",
+                    "서울특별시 서대문구 북가좌동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "월드컵경기장 (성산)",
+        "name_en": "World Cup Stadium (Seongsan)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 619,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 마포구 성산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "마포구청",
+        "name_en": "Mapo-gu Office",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 620,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 성산동",
+                    "서울특별시 마포구 망원동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "망원",
+        "name_en": "Mangwon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 621,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 망원동",
+                    "서울특별시 마포구 서교동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "합정",
+        "name_en": "Hapjeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 238,
+                "OpenDate": "1984-05-22",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 마포구 합정동",
+                    "서울특별시 마포구 서교동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 622,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 마포구 합정동"
+            }
+        ]
+    },
+    {
+        "name_ko": "상수",
+        "name_en": "Sangsu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 623,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 마포구 상수동"
+            }
+        ]
+    },
+    {
+        "name_ko": "광흥창 (서강)",
+        "name_en": "Gwangheungchang (Seogang)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 624,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 창전동",
+                    "서울특별시 마포구 구수동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "대흥 (서강대앞)",
+        "name_en": "Daeheung (Sogang University)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 625,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 마포구 대흥동"
+            }
+        ]
+    },
+    {
+        "name_ko": "공덕",
+        "name_en": "Gongdeok",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 529,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 공덕동",
+                    "서울특별시 마포구 도화동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 626,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 마포구 공덕동",
+                    "서울특별시 마포구 신공덕동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "효창공원앞 (용산구청)",
+        "name_en": "Hyochang Park (Yongsan-gu Office)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 627,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 용산구 효창동",
+                    "서울특별시 용산구 용문동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "삼각지",
+        "name_en": "Samgakji",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 4,
+                "LineName": "4호선",
+                "StationID": 428,
+                "OpenDate": "1985-10-18",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 용산구 한강로1가동"
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 628,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 용산구 한강로1가동"
+            }
+        ]
+    },
+    {
+        "name_ko": "녹사평",
+        "name_en": "Noksapyeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 629,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 용산구 용산4가동",
+                    "서울특별시 용산구 용산2가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "이태원",
+        "name_en": "Itaewon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 630,
+                "OpenDate": "2001-03-09",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 용산구 이태원동"
+            }
+        ]
+    },
+    {
+        "name_ko": "한강진",
+        "name_en": "Hangangjin",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 631,
+                "OpenDate": "2001-03-09",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 용산구 한남동"
+            }
+        ]
+    },
+    {
+        "name_ko": "버티고개",
+        "name_en": "Beotigogae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 632,
+                "OpenDate": "2001-03-09",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 신당동",
+                    "서울특별시 용산구 한남동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "약수",
+        "name_en": "Yaksu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": "333",
+                "OpenDate": "1985-10-18",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 중구 신당동"
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": "633",
+                "OpenDate": "2001-03-09",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중구 신당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "청구",
+        "name_en": "Cheonggu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 5,
+                "LineName": "5호선",
+                "StationID": 537,
+                "OpenDate": "1996-12-30",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중구 신당동"
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 634,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 중구 신당동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신당",
+        "name_en": "Sindang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 2,
+                "LineName": "2호선",
+                "StationID": 206,
+                "OpenDate": "1983-09-16",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": [
+                    "서울특별시 중구 황학동",
+                    "서울특별시 중구 신당동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 635,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중구 훙인동",
+                    "서울특별시 중구 무학동",
+                    "서울특별시 중구 신당동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "동묘앞",
+        "name_en": "Dongmyo",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 636,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 종로구 창신동",
+                    "서울특별시 종로구 숭인동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "창신",
+        "name_en": "Changsin",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 637,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 종로구 창신동",
+                    "서울특별시 종로구 숭인동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "보문",
+        "name_en": "Bomun",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 638,
+                "OpenDate": "2000-12-15",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 성북구 보문1가동",
+                    "서울특별시 성북구 보문2가동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "안암 (고대병원앞)",
+        "name_en": "Anam (Korea University Hospital)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 639,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 성북구 안암5가동"
+            }
+        ]
+    },
+    {
+        "name_ko": "고려대 (종암)",
+        "name_en": "Korea University (Jongam)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 640,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 성북구 종암동",
+                    "서울특별시 동대문구 제기동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "월곡 (동덕여대)",
+        "name_en": "Wolgok (Dongduk Women's University)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 641,
+                "OpenDate": "2000-12-15",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 성북구 하월곡동"
+            }
+        ]
+    },
+    {
+        "name_ko": "상월곡 (한국과학기술연구원)",
+        "name_en": "Sangwolgok (KIST)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 642,
+                "OpenDate": "2000-08-07",
+                "Door": "Left",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 성북구 상월곡동",
+                    "서울특별시 성북구 하월곡동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "돌곶이",
+        "name_en": "Dolgoji",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 643,
+                "OpenDate": "2000-08-07",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 성북구 석관동",
+                    "서울특별시 성북구 장위동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "석계",
+        "name_en": "Seokgye",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "경원선",
+                "StationID": 121,
+                "OpenDate": "1985-01-14",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": [
+                    "서울특별시 성북구 석관동",
+                    "서울특별시 성북구 장위동"
+                ]
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 644,
+                "OpenDate": "2000-08-07",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 노원구 월계동",
+                    "서울특별시 성북구 석관동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "태릉입구",
+        "name_en": "Taereung",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 7,
+                "LineName": "7호선",
+                "StationID": 717,
+                "OpenDate": "1996-10-11",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 공릉동"
+            },
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 645,
+                "OpenDate": "2000-08-07",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 노원구 공릉동"
+            }
+        ]
+    },
+    {
+        "name_ko": "화랑대 (서울여대입구)",
+        "name_en": "Hwarangdae (Seoul Women's University)",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 646,
+                "OpenDate": "2000-08-07",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 노원구 공릉동",
+                    "서울특별시 중랑구 묵동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "봉화산",
+        "name_en": "Bonghwasan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 6,
+                "LineName": "6호선",
+                "StationID": 647,
+                "OpenDate": "2000-08-07",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "서울특별시 중랑구 신내동",
+                    "서울특별시 중랑구 묵동"
+                ]
+            }
+        ]
+    }
+]
