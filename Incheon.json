@@ -1,0 +1,535 @@
+[
+    {
+        "name_ko": "계양",
+        "name_en": "Gyeyang",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I110",
+                "OpenDate": null,
+                "Door": null,
+                "Platform": null,
+                "Crossing": null,
+                "Operator_ko": null,
+                "Operator_en": null,
+                "Address_ko": null
+            }
+        ]
+    },
+    {
+        "name_ko": "귤현",
+        "name_en": "Gyulhyeon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I111",
+                "OpenDate": "1999-12-07",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 계양구 귤현동"
+            }
+        ]
+    },
+    {
+        "name_ko": "박촌",
+        "name_en": "Bakchon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I112",
+                "OpenDate": "1999-10-06",
+                "Door": "Left",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 계양구 박촌동"
+            }
+        ]
+    },
+    {
+        "name_ko": "임학",
+        "name_en": "Imhak",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I113",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": [
+                    "인천광역시 계양구 임학동",
+                    "인천광역시 계양구 병방동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "계산",
+        "name_en": "Gyesan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I114",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 계양구 계산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "인천교대",
+        "name_en": "Incheon National University of Education",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I115",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 계양구 계산동"
+            }
+        ]
+    },
+    {
+        "name_ko": "작전",
+        "name_en": "Jakjeon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I116",
+                "OpenDate": "1999-10-06",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 계양구 작전동"
+            }
+        ]
+    },
+    {
+        "name_ko": "갈산",
+        "name_en": "Galsan",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I117",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": [
+                    "인천광역시 부평구 청천동",
+                    "인천광역시 부평구 갈산동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "부평구청",
+        "name_en": "Bupyeong-gu Office",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I118",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": [
+                    "인천광역시 부평구 청천동",
+                    "인천광역시 부평구 갈산동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "부평시장",
+        "name_en": "Bupyeong Market",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I119",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 부평구 부평동"
+            }
+        ]
+    },
+    {
+        "name_ko": "부평",
+        "name_en": "Bupyeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 1,
+                "LineName": "경인선",
+                "StationID": 152,
+                "OpenDate": "1974-08-15",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "인천광역시 부평구 부평동"
+            },
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I120",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 부평구 부평동"
+            }
+        ]
+    },
+    {
+        "name_ko": "동수",
+        "name_en": "Dongsu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I121",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 부평구 부평동"
+            }
+        ]
+    },
+    {
+        "name_ko": "부평삼거리",
+        "name_en": "Bupyeongsamgeori",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I122",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": [
+                    "인천광역시 부평구 십정동",
+                    "인천광역시 남동구 간석동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "간석오거리",
+        "name_en": "Ganseogogeori",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I123",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 남동구 간석동"
+            }
+        ]
+    },
+    {
+        "name_ko": "인천시청",
+        "name_en": "Incheon City Hall",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I124",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": [
+                    "인천광역시 남동구 간석동",
+                    "인천광역시 남동구 구월동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "예술회관",
+        "name_en": "Arts Center",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I125",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 남동구 구월동"
+            }
+        ]
+    },
+    {
+        "name_ko": "인천터미널",
+        "name_en": "Incheon Bus Terminal",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I126",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 남구 관교동"
+            }
+        ]
+    },
+    {
+        "name_ko": "문학경기장",
+        "name_en": "Munhak Sports Complex",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I127",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 부평구 부평동"
+            }
+        ]
+    },
+    {
+        "name_ko": "선학",
+        "name_en": "Seonhak",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I128",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 연수구 선학동"
+            }
+        ]
+    },
+    {
+        "name_ko": "신연수",
+        "name_en": "Sinyeonsu",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I129",
+                "OpenDate": "1999-10-06",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 연수구 선학동"
+            }
+        ]
+    },
+    {
+        "name_ko": "원인재",
+        "name_en": "Woninjae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I130",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 연수구 선학동"
+            }
+        ]
+    },
+    {
+        "name_ko": "동춘",
+        "name_en": "Dongchun",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I131",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 연수구 선학동"
+            }
+        ]
+    },
+    {
+        "name_ko": "동막",
+        "name_en": "Dongmak",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 21,
+                "LineName": "인천 지하철",
+                "StationID": "I132",
+                "OpenDate": "1999-10-06",
+                "Door": "Right",
+                "Platform": "Island3",
+                "Crossing": true,
+                "Operator_ko": "인천광역시지하철공사",
+                "Operator_en": "IRTC",
+                "Address_ko": "인천광역시 연수구 선학동"
+            }
+        ]
+    }
+]

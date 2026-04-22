@@ -1,0 +1,317 @@
+[
+    {
+        "name_ko": "수서",
+        "name_en": "Suseo",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 3,
+                "LineName": "3호선",
+                "StationID": 349,
+                "OpenDate": "1993-10-30",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시지하철공사",
+                "Operator_en": "SMSC",
+                "Address_ko": "서울특별시 강남구 수서동"
+            },
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K221",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "서울특별시 강남구 수서동"
+            }
+        ]
+    },
+    {
+        "name_ko": "복정",
+        "name_en": "Bokjeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 820,
+                "OpenDate": "1996-11-23",
+                "Door": "Left",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": "서울특별시 송파구 장지동"
+            },
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K222",
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Island",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": [
+                    "서울특별시 송파구 장지동",
+                    "경기도 성남시 수정구 복정동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "경원대",
+        "name_en": "Kyongwon University",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K223",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": [
+                    "경기도 성남시 수정구 복정동",
+                    "경기도 성남시 수정구 태평동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "태평",
+        "name_en": "Taepyeong",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K224",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": [
+                    "경기도 성남시 수정구 수진동",
+                    "경기도 성남시 수정구 태평동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "모란",
+        "name_en": "Moran",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": true,
+        "Lines": [
+            {
+                "LineID": 8,
+                "LineName": "8호선",
+                "StationID": 826,
+                "OpenDate": "1996-11-23",
+                "Door": "Right",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "서울특별시도시철도공사",
+                "Operator_en": "SMRT",
+                "Address_ko": [
+                    "경기도 성남시 중원구 수진동",
+                    "경기도 성남시 중원구 성남동"
+                ]
+            },
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K225",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 중원구 성남동"
+            }
+        ]
+    },
+    {
+        "name_ko": "야탑",
+        "name_en": "Yatap",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K226",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": false,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 분당구 야탑동"
+            }
+        ]
+    },
+    {
+        "name_ko": "이매",
+        "name_en": "Imae",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K227",
+                "OpenDate": null,
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": null,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 분당구 이매동"
+            }
+        ]
+    },
+    {
+        "name_ko": "서현",
+        "name_en": "Seohyeon",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K228",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 분당구 서현동"
+            }
+        ]
+    },
+    {
+        "name_ko": "초림",
+        "name_en": "Chorim",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K229",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 분당구 수내동"
+            }
+        ]
+    },
+    {
+        "name_ko": "백궁",
+        "name_en": "Baekgung",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K230",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 분당구 정자동"
+            }
+        ]
+    },
+    {
+        "name_ko": "미금",
+        "name_en": "Migeum",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K231",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Side",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": [
+                    "경기도 성남시 분당구 정자동",
+                    "경기도 성남시 분당구 구미동"
+                ]
+            }
+        ]
+    },
+    {
+        "name_ko": "오리",
+        "name_en": "Ori",
+        "PrevName_ko": null,
+        "PrevName_en": null,
+        "Renamed": false,
+        "Transfer": false,
+        "Lines": [
+            {
+                "LineID": 318,
+                "LineName": "분당선",
+                "StationID": "K232",
+                "OpenDate": "1994-09-01",
+                "Door": "Left",
+                "Platform": "Island2",
+                "Crossing": true,
+                "Operator_ko": "철도청",
+                "Operator_en": "KNR",
+                "Address_ko": "경기도 성남시 분당구 구미동"
+            }
+        ]
+    }
+]
